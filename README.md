@@ -1,5 +1,5 @@
 # Databases
-Project of the UC Databases. 
+Project of the UC. 
 
 # Project
 In this project, we developed a simple database of the Olympic Triathlon using queries and triggers to create a dynamic database on data insertion, deletion, or change.
